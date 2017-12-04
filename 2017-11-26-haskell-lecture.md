@@ -120,7 +120,7 @@ operate '+' = (+)
 operate '-' = (-)
 operate '*' = (*)
 operate '/' = div
-operate _   = \a b -> a
+operate _   = const
 
 main = do
   sa <- getLine -- sa :: String
