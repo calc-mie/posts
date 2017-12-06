@@ -1,0 +1,1 @@
+../posts-available/2017-04-20-typescript.md

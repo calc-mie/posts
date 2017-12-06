@@ -1,0 +1,1 @@
+../posts-available/2017-05-26-c-prog-rand.md

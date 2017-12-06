@@ -1,0 +1,1 @@
+../posts-available/2017-05-18-setting-up-mecab.md

@@ -1,0 +1,1 @@
+../posts-available/2017-04-30-mnist-tutorial-tf.md

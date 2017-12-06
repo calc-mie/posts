@@ -1,0 +1,1 @@
+../posts-available/2017-11-26-haskell-lecture.md
