@@ -123,9 +123,9 @@ operate '/' = div
 operate _   = const
 
 main = do
-  sa <- getLine -- sa :: String
-  sb <- getLine -- sb :: String
-  so <- getLine -- so(String operator) :: String
+  sa <- getLine
+  sb <- getLine 
+  so <- getLine 
   let a = read sa
   let b = read sb
   let co = head so
