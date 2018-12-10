@@ -3,8 +3,8 @@ title: Contact
 ---
 
 ## 現会長
-へえへえ
-<a class="fa fa-twitter" href="https://twitter.com/ktoahkeii">@ktoahkeii</a>
+きー
+<a class="fa fa-twitter" href="https://twitter.com/keep_OC">@keep_OC</a>
 
 ## 主要な会員
 中ちゃん
