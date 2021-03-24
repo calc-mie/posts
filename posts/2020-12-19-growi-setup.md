@@ -1,0 +1,1 @@
+../posts-available/2020-12-19-growi-setup.md
